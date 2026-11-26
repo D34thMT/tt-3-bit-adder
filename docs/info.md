@@ -17,4 +17,4 @@ Select the input via switch, if you want to add 0b10 to 0b11 you should see the 
 
 ## External hardware
 
-None
+Don't have any external hardware
