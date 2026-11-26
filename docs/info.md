@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Switch 1 through switch 4 are inputs, SW1(MSB) and SW2(LSB) is one 2 bit input and SW3(MSB) and SW4(LSB) is the other 2 bit input. Selecting inputs will add the values together and present them via 7 segment display.  
 
 ## How to test
 
-Explain how to use your project
+Select the input via switch, if you want to add 0b10 to 0b11 you should see the result in the decimal on the display. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
